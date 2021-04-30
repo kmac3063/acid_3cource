@@ -1,0 +1,2 @@
+D:\Programs\mingw64\bin\ar.exe qc libmylib.a  CMakeFiles/mylib.dir/catch.cpp.obj
+D:\Programs\mingw64\bin\ranlib.exe libmylib.a

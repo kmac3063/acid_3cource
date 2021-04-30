@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Study/6_semester/Tehnologia programmirovaniya/1/consistent_linked_list.h
+iostream
+-
+vector
+-
+exception
+-
+
+D:/Study/6_semester/Tehnologia programmirovaniya/1/func_tests.h
+iostream
+D:/Study/6_semester/Tehnologia programmirovaniya/1/iostream
+vector
+D:/Study/6_semester/Tehnologia programmirovaniya/1/vector
+utils.h
+D:/Study/6_semester/Tehnologia programmirovaniya/1/utils.h
+consistent_linked_list.h
+D:/Study/6_semester/Tehnologia programmirovaniya/1/consistent_linked_list.h
+
+D:/Study/6_semester/Tehnologia programmirovaniya/1/temp.cpp
+consistent_linked_list.h
+D:/Study/6_semester/Tehnologia programmirovaniya/1/consistent_linked_list.h
+iostream
+-
+vector
+-
+algorithm
+-
+numeric
+-
+time.h
+-
+func_tests.h
+D:/Study/6_semester/Tehnologia programmirovaniya/1/func_tests.h
+
+D:/Study/6_semester/Tehnologia programmirovaniya/1/utils.h
+vector
+-
+consistent_linked_list.h
+D:/Study/6_semester/Tehnologia programmirovaniya/1/consistent_linked_list.h
+
